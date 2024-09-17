@@ -1,0 +1,15 @@
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.csproj.AssemblyReference.cache
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.AssemblyInfoInputs.cache
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.AssemblyInfo.cs
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.csproj.CoreCompileInputs.cache
+C:\Users\José Salbany\Desktop\code\file_sync\bin\Debug\net7.0\file_sync.exe
+C:\Users\José Salbany\Desktop\code\file_sync\bin\Debug\net7.0\file_sync.deps.json
+C:\Users\José Salbany\Desktop\code\file_sync\bin\Debug\net7.0\file_sync.runtimeconfig.json
+C:\Users\José Salbany\Desktop\code\file_sync\bin\Debug\net7.0\file_sync.dll
+C:\Users\José Salbany\Desktop\code\file_sync\bin\Debug\net7.0\file_sync.pdb
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.dll
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\refint\file_sync.dll
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.pdb
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\file_sync.genruntimeconfig.cache
+C:\Users\José Salbany\Desktop\code\file_sync\obj\Debug\net7.0\ref\file_sync.dll

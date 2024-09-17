@@ -1,0 +1,12 @@
+Copied: C:\Users\José Salbany\Desktop\code\source\first.txt to C:\Users\José Salbany\Desktop\code\replica\first.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1file\second.txt to C:\Users\José Salbany\Desktop\code\replica\test1file\second.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1file\test2file\third.txt to C:\Users\José Salbany\Desktop\code\replica\test1file\test2file\third.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\first.txt to C:\Users\José Salbany\Desktop\code\replica\first.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\first.txt to C:\Users\José Salbany\Desktop\code\replica\first.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1file\second.txt to C:\Users\José Salbany\Desktop\code\replica\test1file\second.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1file\test2file\third.txt to C:\Users\José Salbany\Desktop\code\replica\test1file\test2file\third.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\first.txt to C:\Users\José Salbany\Desktop\code\replica\first.txt
+Removed: C:\Users\José Salbany\Desktop\code\replica\first.txt
+Removed: C:\Users\José Salbany\Desktop\code\replica\test1file\second.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1.txt to C:\Users\José Salbany\Desktop\code\replica\test1.txt
+Copied: C:\Users\José Salbany\Desktop\code\source\test1.txt to C:\Users\José Salbany\Desktop\code\replica\test1.txt
